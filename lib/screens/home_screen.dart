@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              "24 May",
+              "13 sep",
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.w900,
